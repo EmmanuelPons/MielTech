@@ -22,7 +22,7 @@ void loop() {
 
   Serial.println("Temperature = " + TemperatureValue +" °C");
   Serial.println("Humidite = " + HumidityValue +" %");
-  // Attend 5 secondes avant de reboucler
+  // Attend 1 secondes avant de reboucler
   delay(1000);
 
 }
