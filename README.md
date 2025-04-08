@@ -86,21 +86,6 @@ Encadrant : Yann Douze
 
 ---
 
-## 📂 Arborescence du dépôt
-
-```
-/
-├── mieltech_final.ino             # Code Arduino principal
-├── payload_mieltech.js           # Décodeur JavaScript pour TTN/BEEP
-├── README.md                     # Ce fichier
-├── img/                          # Illustrations du projet (photos, schémas)
-│   ├── systeme_architecture.png
-│   ├── ruche_connectee.png
-│   └── dashboard_example.png
-```
-
----
-
 ## 🛠️ Reproduction du projet
 
 1. Flasher le code dans la carte MKR WAN 1300
